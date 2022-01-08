@@ -1,4 +1,4 @@
 # portfolio-generator_nodeJS
 ![JavaScript](https://img.shields.io/badge/JavaScript-%2300599C.svg?style=for-the-badge)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
-![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge&logo=c%2B%2B)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML-%2300599C.svg?style=for-the-badge)
